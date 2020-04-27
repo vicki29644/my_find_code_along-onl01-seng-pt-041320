@@ -12,10 +12,4 @@ i = 0
     else
         true
     end
-
-
-
-
-
-
 end
